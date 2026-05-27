@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chioma! 👋
 
-<!--
-**chioma-okam/chioma-okam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Computational Biologist | Immunologist | Bioinformatician
 
-Here are some ideas to get you started:
+I bridge the gap between complex biological data and computational insights. Currently focusing on transcriptomics pipelines, differential expression analysis, and translating high-throughput sequencing data into meaningful biological narratives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+* **Languages:** R (Bioconductor, DESeq2, ggplot2), Python (Jupyter, Pandas), Bash/Shell
+* **Tools & Environments:** VS Code, Git/GitHub, LaTeX, Markdown
+* **Domains:** Transcriptomics, Immunology, Molecular Biology, Gene Ontology (GO) Enrichment
+
+## 🧬 Current Focus & Projects
+* **Malaria Transcriptomics Research:** Analyzing gene expression datasets to uncover host-pathogen dynamics (R / DESeq2).
+* **Leishmaniasis Data Analysis:** Utilizing computational workflows to analyze transcriptomic/genomic profiles and immunological responses.
+* **Pipeline Optimization:** Building reproducible and clean data analysis workflows for biological data.
+
+## 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/chioma-okam-ndokwu](https://linkedin.com/in/chioma-okam-ndokwu)
+* **Email:** [chiomaconstanceokam@gmail.com](mailto:chiomaconstanceokam@gmail.com)
